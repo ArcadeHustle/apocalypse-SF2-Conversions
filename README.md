@@ -28,14 +28,39 @@ On CPS1 it's possible to convert any game to run with any B-board and with any C
 
 ## SF2' to Cadillacs & Dinosaurs
 [Conversion SF2' to Cadillacs & Dinosaurs (CPS1 no Q-sound)](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/Cadillacs)<br>	
+<p align="center">
+<img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/master/imgs/cadillacs/0000.png">
+<img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/master/imgs/cadillacs/0001.png">
+</p>
+
 ## SF2' to Carrier Air Wing
 [Conversion SF2' to Carrier Air Wing (CPS1)](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/CarrierAirWing)<br>
+<p align="center">
+<img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/master/imgs/carrier/0005.png">
+<img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/master/imgs/carrier/0004.png">
+<img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/master/imgs/carrier/0000.png">
+</p>
+
 ## SF2' to Forgotten Worlds
 [Conversion SF2' to Forgotten Worlds (CPS1)](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/ForgottenWorlds)<br>
+<p align="center">
+<img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/master/imgs/forgotten/0000.png">
+<img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/master/imgs/forgotten/0001.png">
+</p>
+
 ## SF2' to Ghouls'n'Ghosts
 [Conversion SF2' to Ghouls'n'Ghosts (World, not resale) CPS1](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/GhoulsNGhosts)<br>
+<p align="center">
+<img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/master/imgs/ghouls/0001.jpeg">
+<img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/master/imgs/ghouls/0000.jpeg">
+</p>
+
 ## SF2' to Strider
 [Conversion SF2' to Strider](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/Strider)<br>
+<p align="center">
+<img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/master/imgs/strider/0001.png">
+<img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/master/imgs/strider/0002.png">
+</p>
 
 # Final Boss
 
