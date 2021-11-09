@@ -17,7 +17,7 @@ Big thanks to Mitsurugi_w, Darksoft, MetalliC (p1pkin) and Brizzo (Nazarene) of 
 * [Stage One:](#stage-one)
    * [SF2' to Cadillacs &amp; Dinosaurs](#sf2-to-cadillacs--dinosaurs)
    * [SF2' to Carrier Air Wing](#sf2-to-carrier-air-wing)
-   * [SF2' to Forgotten Worlds](#sf2-to-forgotten-worlds)
+   * [SF2' to Forgotten Worlds JAMMA hack](#sf2-to-forgotten-worlds-jamma-hack)
    * [SF2' to Ghouls'n'Ghosts](#sf2-to-ghoulsnghosts)
    * [SF2' to Strider](#sf2-to-strider)
 * [Final Boss](#final-boss)
@@ -25,6 +25,8 @@ Big thanks to Mitsurugi_w, Darksoft, MetalliC (p1pkin) and Brizzo (Nazarene) of 
 # Stage One:
 
 On CPS1 it's possible to convert any game to run with any B-board and with any C-board. Read about it in this repo! Links below for specific games.<br>
+
+Note: For Forgotten Worlds, these steps allow for play on a JAMMA cab with no special controls or spinners!<br>
 
 ## SF2' to Cadillacs & Dinosaurs
 [Conversion SF2' to Cadillacs & Dinosaurs (CPS1 no Q-sound)](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/Cadillacs)<br>	
@@ -41,7 +43,7 @@ On CPS1 it's possible to convert any game to run with any B-board and with any C
 <img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/main/imgs/carrier/0000.png">
 </p>
 
-## SF2' to Forgotten Worlds
+## SF2' to Forgotten Worlds JAMMA hack
 [Conversion SF2' to Forgotten Worlds (CPS1)](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/ForgottenWorlds)<br>
 <p align="center">
 <img src="https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/blob/main/imgs/forgotten/0000.png">
