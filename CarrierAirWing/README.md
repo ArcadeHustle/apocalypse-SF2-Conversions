@@ -188,6 +188,4 @@ Double check you've put the devices the right way (the silkscreen should help yo
  - Install ROM 02 in socket 03
  - Install ROM 03 in socket 02
  - Install the GAL16V8 in position 1A (where the S963B was)
-
-7) Test
 ```

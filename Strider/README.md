@@ -56,5 +56,4 @@ All SF2' ROMs must be removed from the B-board.
  - Install ROM 07 in socket 06
  - Install the GAL16V8 in position 1A (where the S963B was)
 
-4) Test
 ```

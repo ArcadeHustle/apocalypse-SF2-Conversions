@@ -92,8 +92,6 @@ Double check you've put the devices the right way (the silkscreen should help yo
 - Install ROM 07 in socket 06
 - Install the GAL16V8 in position 1A (where the S963B was)
 
-7) Test
-
 [EDIT 31/03/17]
 I just realised I put the wrong PAL file in the archive. That's fixed.
 

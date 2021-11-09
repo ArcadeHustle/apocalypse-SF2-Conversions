@@ -24,7 +24,7 @@ Big thanks to Mitsurugi_w, Darksoft, MetalliC (p1pkin) and Brizzo (Nazarene) of 
 
 # Stage One:
 
-On CPS1 it's possible to convert any game to run with any B-board and with any C-board.
+On CPS1 it's possible to convert any game to run with any B-board and with any C-board. Read about it in this repo! Links below for specific games.<br>
 
 ## SF2' to Cadillacs & Dinosaurs
 [Conversion SF2' to Cadillacs & Dinosaurs (CPS1 no Q-sound)](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/Cadillacs)<br>	
@@ -36,8 +36,6 @@ On CPS1 it's possible to convert any game to run with any B-board and with any C
 [Conversion SF2' to Ghouls'n'Ghosts (World, not resale) CPS1](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/GhoulsNGhosts)<br>
 ## SF2' to Strider
 [Conversion SF2' to Strider](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/Strider)<br>
-
-Read about it in this repo! Links below for specific games.<br>
 
 # Final Boss
 
