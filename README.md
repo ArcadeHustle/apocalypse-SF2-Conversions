@@ -15,17 +15,27 @@ Big thanks to Mitsurugi_w, Darksoft, MetalliC (p1pkin) and Brizzo (Nazarene) of 
 ["That hack required paying Apocalypse for the roms, it likely cannot be found on the internet"](https://www.arcade-projects.com/threads/my-cps1-conversions-info.4702/post-299673)
 
 * [Stage One:](#stage-one)
+   * [SF2' to Cadillacs &amp; Dinosaurs](#sf2-to-cadillacs--dinosaurs)
+   * [SF2' to Carrier Air Wing](#sf2-to-carrier-air-wing)
+   * [SF2' to Forgotten Worlds](#sf2-to-forgotten-worlds)
+   * [SF2' to Ghouls'n'Ghosts](#sf2-to-ghoulsnghosts)
+   * [SF2' to Strider](#sf2-to-strider)
 * [Final Boss](#final-boss)
 
 # Stage One:
 
 On CPS1 it's possible to convert any game to run with any B-board and with any C-board.
 
-[Cadillacs](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/Cadillacs)<br>	
-[CarrierAirWing](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/CarrierAirWing)<br>
-[ForgottenWorlds](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/ForgottenWorlds)<br>
-[GhoulsNGhosts](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/GhoulsNGhosts)<br>
-[Strider](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/Strider)<br>
+## SF2' to Cadillacs & Dinosaurs
+[Conversion SF2' to Cadillacs & Dinosaurs (CPS1 no Q-sound)](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/Cadillacs)<br>	
+## SF2' to Carrier Air Wing
+[Conversion SF2' to Carrier Air Wing (CPS1)](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/CarrierAirWing)<br>
+## SF2' to Forgotten Worlds
+[Conversion SF2' to Forgotten Worlds (CPS1)](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/ForgottenWorlds)<br>
+## SF2' to Ghouls'n'Ghosts
+[Conversion SF2' to Ghouls'n'Ghosts (World, not resale) CPS1](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/GhoulsNGhosts)<br>
+## SF2' to Strider
+[Conversion SF2' to Strider](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/Strider)<br>
 
 Read about it in this repo! Links below for specific games.<br>
 
