@@ -12,6 +12,11 @@ Big thanks to Mitsurugi_w, Darksoft, MetalliC (p1pkin) and Brizzo (Nazarene) of 
   <img src="https://github.com/ArcadeHustle/X3_USB_softmod/blob/master/arcadeprojects.jpeg"><img src="https://github.com/ArcadeHustle/X3_USB_softmod/blob/master/brizzo.jpeg"><img src="https://github.com/ArcadeHustle/X3_USB_softmod/blob/master/metallic.jpg">
 </p>
 
+["That hack required paying Apocalypse for the roms, it likely cannot be found on the internet"](https://www.arcade-projects.com/threads/my-cps1-conversions-info.4702/post-299673)
+
+* [Stage One:](#stage-one)
+* [Final Boss](#final-boss)
+
 # Stage One:
 
 On CPS1 it's possible to convert any game to run with any B-board and with any C-board.
