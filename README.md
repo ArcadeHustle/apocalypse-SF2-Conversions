@@ -1,3 +1,5 @@
+Reminder, if you like these repos, fork them so they don't disappear https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/fork
+
 Big thanks to Mitsurugi_w, Darksoft, MetalliC (p1pkin) and Brizzo (Nazarene) of Arcade Projects for finally allowing this to be published. Please direct message them with any questions! https://arcade-projects.com/
 
 - written by hostile, with supporting information from the community at large, and lots of Google searches
@@ -14,13 +16,13 @@ Big thanks to Mitsurugi_w, Darksoft, MetalliC (p1pkin) and Brizzo (Nazarene) of 
 
 On CPS1 it's possible to convert any game to run with any B-board and with any C-board.
 
-[Cadillacs](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/)	
-[CarrierAirWing](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/)
-[ForgottenWorlds](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/)	
-[GhoulsNGhosts](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/)
-[Strider](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/)
+[Cadillacs](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/Cadillacs)<br>	
+[CarrierAirWing](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/CarrierAirWing)<br>
+[ForgottenWorlds](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/ForgottenWorlds)<br>
+[GhoulsNGhosts](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/GhoulsNGhosts)<br>
+[Strider](https://github.com/ArcadeHustle/apocalypse-SF2-Conversions/tree/main/Strider)<br>
 
-Read about it in this repo! Links below for specific games. 
+Read about it in this repo! Links below for specific games.<br>
 
 # Final Boss
 
